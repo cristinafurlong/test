@@ -30,27 +30,40 @@ PRE-REPORTING
 
 We will use resources that are at our disposal, including Luis Miguel, who is the Head Coach of Dalton’s soccer team, and has direct access to the athletic department at Dalton as well as a working/personal relationship with the coaching staff at MLK Jr.
 While there is data readily available on the two teams, and youth soccer as a whole, we will also incorporate proprietary intelligence that is especially important in determining each team’s championship potential as well as higher education success rates (who attends college? who receives scholarships? who plays collegiate soccer?)
+
 We also hope to draw a dynamic and diverse set of data that will help tell a “story” for each team this season while revealing what factors influence better athleticism and academics.
+
 We will take a look at the following data points (but not limited to):
+
 1.) Probability of competing beyond high school - 
 *Becoming a pro player in any sport is difficult, but the opportunity to play at the collegiate level still opens doors for young athletes both in and outside of the sport itself. It’s important to look at this data as we track the success rates of students to determine what percent of high school athletes are likely play on teams ranging from junior colleges to the NCAA.
+
 2.) Dalton High School Stats - 
 *Dalton High School is one of the most prestigious prep schools in the U.S. We’ll take a look at their graduation rates as well as their ethnic backdrop to see how they compare to public high schools in NYC. We’ll determine if diversity plays a role in how they fair in sports like soccer.
+
 3.) Public high school graduation rates in NYC – 
 *At a private school like Dalton in New York City there is a 100% graduation rate, but it is not the same for MLK Jr. What is interesting here is that we can compare student athletes in academics. Even if the public high schools have a higher dropout rate what does that mean for student athletes? We’ll look into academics to find out if student athletes are raising the bar and have a better chance at graduating.
+
 4.) Competitive Youth Sport Participation - 
 *We’ll examine just how many youth are participating in sports in the U.S. today while looking into several factors that contribute to their participation. This is relevant to our community because many drop out of the sport their freshman year. We’ll look at how household income, neighborhood and coaching can affect their success rates.
+
 5.) High School Soccer Participation - 
 *This is an insightful look at all high school sports participation. It is relevant to our research because it dives into just how popular the sport is as well as how competitive the sport is at the high school level.   
+
 6.) Championships/Games won – MLK & Dalton 
 *In order to evaluate the two teams we are looking at we need to go back to their win/loss records, see statistics on players as well as what championships they’ve achieved. This will determine who is the better team on paper and we’ll watch to see if that translates to the playing field.
+
 7.) Student Eligibility for College Sports – 
 *As we take a look at what it takes to win games in high school, we’ll also take a look at where students need to be when it comes to academics in order to enter college. We’ll compare and contrast what each team looks like academically speaking, and see what players are eligible to play in the NCAA if given the opportunity (based on merit).
+
 8.) Youth soccer stats - 
 *We noted that youth the dropout rate for sports increases as they get older, freshman year being particularly fragile. In this data we single out the game of soccer by age, region and gender. This will help us discover how players in New York stack against the rest of the U.S., and what makes our two schools unique compared to other areas.
+
 9.) Injuries - 
 *There are inevitable injuries in any sport. There may be players who are sidelined because of injury this year for our two teams. This is why we’ll take a look at what injuries are common, what the percentage of injuries occur in soccer and find out how this odds can affect our two teams.
+
 10.) Below is a list of questions we are including, but are not limited to, when collecting data in our community. Answers to these questions are important in our overall portfolio because they will help determine contributing factors for each school (and for each student) when it comes to succeeding in high school level soccer.   
+
 - Amount of hours practiced per week
 - Amount of students who receive private training
 - Have parents or relatives played soccer?
