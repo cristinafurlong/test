@@ -35,7 +35,7 @@ We also hope to draw a dynamic and diverse set of data that will help tell a “
 
 We will take a look at the following data points (but not limited to):
 
-1.) Probability of competing beyond high school - http://www.ncaa.org/about/resources/research/probability-competing-beyond-high-school
+1.) [Probability of competing beyond high school](http://www.ncaa.org/about/resources/research/probability-competing-beyond-high-school)
 
 *Becoming a pro player in any sport is difficult, but the opportunity to play at the collegiate level still opens doors for young athletes both in and outside of the sport itself. It’s important to look at this data as we track the success rates of students to determine what percent of high school athletes are likely play on teams ranging from junior colleges to the NCAA.
 
