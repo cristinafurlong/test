@@ -39,37 +39,36 @@ We will take a look at the following data points (but not limited to):
 
 *Becoming a pro player in any sport is difficult, but the opportunity to play at the collegiate level still opens doors for young athletes both in and outside of the sport itself. It’s important to look at this data as we track the success rates of students to determine what percent of high school athletes are likely play on teams ranging from junior colleges to the NCAA.
 
-2.) Dalton High School Stats - http://high-schools.com/directory/ny/cities/new-york/dalton-school/00941729/
+2.) [Dalton High School Stats](http://high-schools.com/directory/ny/cities/new-york/dalton-school/00941729/)
 
 *Dalton High School is one of the most prestigious prep schools in the U.S. We’ll take a look at their graduation rates as well as their ethnic backdrop to see how they compare to public high schools in NYC. We’ll determine if diversity plays a role in how they fair in sports like soccer.
 
-3.) Public high school graduation rates in NYC – http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.htm
+3.) [Public high school graduation rates in NYC](http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.htm)
 
 *At a private school like Dalton in New York City there is a 100% graduation rate, but it is not the same for MLK Jr. What is interesting here is that we can compare student athletes in academics. Even if the public high schools have a higher dropout rate what does that mean for student athletes? We’ll look into academics to find out if student athletes are raising the bar and have a better chance at graduating.
 
-4.) Competitive Youth Sport Participation - http://espn.go.com/espn/story/_/id/9469252/hidden-demographics-youth-sports-espn-magazine
+4.) [Competitive Youth Sport Participation](http://espn.go.com/espn/story/_/id/9469252/hidden-demographics-youth-sports-espn-magazine)
 
 *We’ll examine just how many youth are participating in sports in the U.S. today while looking into several factors that contribute to their participation. This is relevant to our community because many drop out of the sport their freshman year. We’ll look at how household income, neighborhood and coaching can affect their success rates.
 
-5.) High School Soccer Participation - http://www.nfhs.org/ParticipationStatics/PDF/2013-14_Participation_Survey_PDF.pdf
+5.) [High School Soccer Participation](http://www.nfhs.org/ParticipationStatics/PDF/2013-14_Participation_Survey_PDF.pdf)
 
 *This is an insightful look at all high school sports participation. It is relevant to our research because it dives into just how popular the sport is as well as how competitive the sport is at the high school level.   
 
-6.) Championships/Games won – 
-http://www.psal.org/profiles/team-profile.aspx#012/03548
-http://www.maxpreps.com/local/team/records/year_by_year_results.aspx?gendersport=boys,soccer&schoolid=ccd3fe4f-fd61-487b-86e6-2f9fd97a7489
+6.) [Championships/Games won][MLK Jr](http://www.psal.org/profiles/team-profile.aspx#012/03548)
+[Dalton](http://www.maxpreps.com/local/team/records/year_by_year_results.aspx?gendersport=boys,soccer&schoolid=ccd3fe4f-fd61-487b-86e6-2f9fd97a7489)
 
 *In order to evaluate the two teams we are looking at we need to go back to their win/loss records, see statistics on players as well as what championships they’ve achieved. This will determine who is the better team on paper and we’ll watch to see if that translates to the playing field.
 
-7.) Student Eligibility for College Sports – http://www.athleticscholarships.net/academic-requirements.htm
+7.) [Student Eligibility for College Sports](http://www.athleticscholarships.net/academic-requirements.htm)
 
 *As we take a look at what it takes to win games in high school, we’ll also take a look at where students need to be when it comes to academics in order to enter college. We’ll compare and contrast what each team looks like academically speaking, and see what players are eligible to play in the NCAA if given the opportunity (based on merit).
 
-8.) Youth soccer stats - http://www.youthsportsconsulting.com/us-youth-soccer-statistics-infographic/
+8.) [Youth soccer stats](http://www.youthsportsconsulting.com/us-youth-soccer-statistics-infographic/)
 
 *We noted that youth the dropout rate for sports increases as they get older, freshman year being particularly fragile. In this data we single out the game of soccer by age, region and gender. This will help us discover how players in New York stack against the rest of the U.S., and what makes our two schools unique compared to other areas.
 
-9.) Injuries - http://www.youthsportsconsulting.com/us-youth-soccer-statistics-infographic/
+9.) [Injuries](http://www.youthsportsconsulting.com/us-youth-soccer-statistics-infographic/)
 
 *There are inevitable injuries in any sport. There may be players who are sidelined because of injury this year for our two teams. This is why we’ll take a look at what injuries are common, what the percentage of injuries occur in soccer and find out how this odds can affect our two teams.
 
