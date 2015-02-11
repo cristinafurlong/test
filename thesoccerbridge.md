@@ -1,10 +1,8 @@
 **PITCH**
 
-Welcome to Martin Luther King Jr. High School.  A Public School on the Upper West Side near Lincoln Center.  Despite it's exotic location, MLK Jr. has had a turbulent past and in 2002, it was divided into small schools in an attempt to improve safety and academic performances.  The effort was short lived and in 2005, the school was phased out by the DOE (Department of Education) and what remained was a complex of these mini-schools, which now make up the entire building.
+**WE NEED A LOGLINE**
 
-Now head east, crossing central park, and just over 2 miles from MLK Jr. is the prestigious Dalton School.  A private educational facility where tuition is just over $41,000. Famous alumni include Claire Danes, Anderson Cooper and Sean Lennon.
-
-At first glance these two schools might not have much in common, as they seem worlds apart - socially and economically speaking. However, despite their differences, it is thanks to their love of soccer that we can better understand the teams from both an educational and athletic perspective. By taking a deeper look at the boys varsity soccer programs we can uncover information that will help us determine what encourages success rates for high school athletes (in this case soccer players) in both the public and private high school sectors. 
+**WE NEED A NUT GRAPH** 
 
 This project will aim to investigate, but not limited to the following issues:
 
