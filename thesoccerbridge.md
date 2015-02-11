@@ -14,7 +14,7 @@ Where do these kids come from?  Financially? Socially? Geographically? Ethnicall
 What makes a successful team/community?
 
 
-WHY DO WE CARE NOW?
+**WHY DO WE CARE NOW?**
 
 The social gap in this country is bigger than ever.  According to an article by the Pew Research Center last December, the gap between America’s upper-income and middle-income families has reached its highest level on record.  Instead of simply tackling this issue at a large scale, we can use these two teams as a microcosmic example of social and economical differences in order to help us better understand their role in society and within their communities.
 
@@ -22,11 +22,11 @@ If we can better understand the similarities and differences between these progr
 
 This is also a wider view of high school sports and how they work in both the private and public sector.  Do they help the student achieve their goals after school? How many of these kids graduate and as a result of their scholastic background in athletics, how many go to college because of it?  What are the major implications/advantages of team sports in schools and how do they help the student and their families?
 
-WHO CARES?         
+**WHO CARES?**         
 
 This issue is not just about the players or the coaches, it is also about their school communities, parents and even their neighborhoods. It will also be an opportunity for the teams to learn from one another.  The fact that we are dealing with schools from both the private and public sector, the data and community based investigation will create better knowledge and detailed comparisons as well as differences between the private schools and DOE.
 
-PRE-REPORTING
+**PRE-REPORTING**
 
 We will use resources that are at our disposal, including Luis Miguel, who is the Head Coach of Dalton’s soccer team, and has direct access to the athletic department at Dalton as well as a working/personal relationship with the coaching staff at MLK Jr.
 While there is data readily available on the two teams, and youth soccer as a whole, we will also incorporate proprietary intelligence that is especially important in determining each team’s championship potential as well as higher education success rates (who attends college? who receives scholarships? who plays collegiate soccer?)
