@@ -55,7 +55,7 @@ We will take a look at the following data points (but not limited to):
 
 *This is an insightful look at all high school sports participation. It is relevant to our research because it dives into just how popular the sport is as well as how competitive the sport is at the high school level.   
 
-6.) [Championships/Games won][MLK Jr](http://www.psal.org/profiles/team-profile.aspx#012/03548)
+6.) Championships/Games won [MLK Jr](http://www.psal.org/profiles/team-profile.aspx#012/03548)
 [Dalton](http://www.maxpreps.com/local/team/records/year_by_year_results.aspx?gendersport=boys,soccer&schoolid=ccd3fe4f-fd61-487b-86e6-2f9fd97a7489)
 
 *In order to evaluate the two teams we are looking at we need to go back to their win/loss records, see statistics on players as well as what championships they’ve achieved. This will determine who is the better team on paper and we’ll watch to see if that translates to the playing field.
