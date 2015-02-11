@@ -1,4 +1,4 @@
-PITCH
+**PITCH**
 
 Welcome to Martin Luther King Jr. High School.  A Public School on the Upper West Side near Lincoln Center.  Despite it's exotic location, MLK Jr. has had a turbulent past and in 2002, it was divided into small schools in an attempt to improve safety and academic performances.  The effort was short lived and in 2005, the school was phased out by the DOE (Department of Education) and what remained was a complex of these mini-schools, which now make up the entire building.
 
