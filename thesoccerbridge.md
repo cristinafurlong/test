@@ -96,7 +96,7 @@ IMPORTANT SOURCES
 6.  New York Association Of Independent Schools
 7.  Dalton School 
 8.  MLK Jr. High School
-9.  schools.ny.cgov
+9.  schools.nyc.gov
 
 
 
