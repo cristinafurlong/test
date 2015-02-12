@@ -4,13 +4,13 @@ How data can help us understand the success of a high school soccer player.
 
 We will be looking at two players from two very different schools (One public, one private) in New York and determine what exactly makes a successful program.  This project will aim to investigate, but not limited to the following issues:
 
-What are the foundations of a successful school team program?
+-What are the foundations of a successful school team program?
 
-What are the main team challenges between the private and public school sector and how do they differ? (more money vs more time and effort? facilities? injuries?)
+-What are the main team challenges between the private and public school sector and how do they differ? (more money vs more time and effort? facilities? injuries?)
 
-Where do these kids come from?  Financially? Socially? Geographically? Ethnically?
+-Where do these kids come from?  Financially? Socially? Geographically? Ethnically?
 
-What makes a successful team/community?
+-What makes a successful team/community?
 
 
 **WHY DO WE CARE NOW?**
