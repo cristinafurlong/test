@@ -87,14 +87,14 @@ We will take a look at the following data points (but not limited to):
 - Players who have been offered athletic scholarships
 
 IMPORTANT SOURCES:
-Teddy Frischling - Dalton School Athletic Director
-Martin Jacobson - Head Coach at MLK Jr and Athletic Director
-Luis Miguel Echegaray - Head Coach at Dalton School
-Michael Black - Athletic Trainer at Dalton School
-www.psal.org  -   Public School Athletic League
-http://www.nysais.org -  New York Association Of Independent Schools
-Dalton School -  Dalton.org
-MLK Jr. -  http://schools.nyc.gov/schoolportals/03/m492/default.htm
+1.  Teddy Frischling - Dalton School Athletic Director
+2.  Martin Jacobson - Head Coach at MLK Jr and Athletic Director
+3.  Luis Miguel Echegaray - Head Coach at Dalton School
+4.  Michael Black - Athletic Trainer at Dalton School
+5.  Public School Athletic League  -  PSAL.org
+6.  New York Association Of Independent Schools  -  nysais.org
+7.  Dalton School -  Dalton.org
+8.  MLK Jr. -  http://schools.nyc.gov/schoolportals/03/m492/default.htm
                http://lacjhs.org/
 
 
