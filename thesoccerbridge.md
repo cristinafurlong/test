@@ -1,10 +1,8 @@
 **PITCH**
 
-**WE NEED A LOGLINE**
+**How data can help us understand the success of a high school soccer player**
 
-**WE NEED A NUT GRAPH** 
-
-This project will aim to investigate, but not limited to the following issues:
+We will be looking at two players from two very different schools (One public, one private) in New York and determine what exactly makes a successful program.This project will aim to investigate, but not limited to the following issues:
 
 What are the foundations of a successful school team program?
 What are the main team challenges between the private and public school sector and how do they differ? (more money vs more time and effort? facilities? injuries?)
@@ -14,9 +12,9 @@ What makes a successful team/community?
 
 **WHY DO WE CARE NOW?**
 
-The social gap in this country is bigger than ever.  According to an article by the Pew Research Center last December, the gap between America’s upper-income and middle-income families has reached its highest level on record.  Instead of simply tackling this issue at a large scale, we can use these two teams as a microcosmic example of social and economical differences in order to help us better understand their role in society and within their communities.
+The social gap in this country is bigger than ever.  According to an article by the Pew Research Center last December, the gap between America’s upper-income and middle-income families has reached its highest level on record.  Instead of simply tackling this issue at a large scale, we can use these two players and their teams as a microcosmic example of social and economical differences in order to help us better understand their role in society and within their communities.
 
-If we can better understand the similarities and differences between these programs, we can help their communities understand the obstacles they face and how we can build more bridges in order to close the gap of inequality, especially in sports.
+If we can better understand the similarities and differences between them, we can help their communities understand the obstacles they face and how we can build more bridges in order to close the gap of inequality, especially in sports.
 
 This is also a wider view of high school sports and how they work in both the private and public sector.  Do they help the student achieve their goals after school? How many of these kids graduate and as a result of their scholastic background in athletics, how many go to college because of it?  What are the major implications/advantages of team sports in schools and how do they help the student and their families?
 
