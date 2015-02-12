@@ -86,7 +86,8 @@ We will take a look at the following data points (but not limited to):
 - Players planning to go to college
 - Players who have been offered athletic scholarships
 
-IMPORTANT SOURCES:
+IMPORTANT SOURCES
+
 1.  Teddy Frischling - Dalton School Athletic Director
 2.  Martin Jacobson - Head Coach at MLK Jr and Athletic Director
 3.  Luis Miguel Echegaray - Head Coach at Dalton School
