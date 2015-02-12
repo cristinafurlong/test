@@ -91,12 +91,12 @@ IMPORTANT SOURCES
 1.  Teddy Frischling - Dalton School Athletic Director
 2.  Martin Jacobson - Head Coach at MLK Jr and Athletic Director
 3.  Luis Miguel Echegaray - Head Coach at Dalton School
-4.  Michael Black - Athletic Trainer at Dalton School
-5.  Public School Athletic League  -  PSAL.org
-6.  New York Association Of Independent Schools  -  nysais.org
-7.  Dalton School -  Dalton.org
-8.  MLK Jr. -  http://schools.nyc.gov/schoolportals/03/m492/default.htm
-               http://lacjhs.org/
+4.  Michael Black - Dalton School Athletic Trainer
+5.  Public School Athletic League
+6.  New York Association Of Independent Schools
+7.  Dalton School 
+8.  MLK Jr. High School
+9.  schools.ny.cgov
 
 
 
