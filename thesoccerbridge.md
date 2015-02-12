@@ -1,6 +1,7 @@
 **PITCH**
 
 How data can help us understand the success of a high school soccer player
+
 --------------------------------------------------------------------------
 
 We will be looking at two players from two very different schools (One public, one private) in New York and determine what exactly makes a successful program.  This project will aim to investigate, but not limited to the following issues:
