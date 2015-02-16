@@ -4,7 +4,7 @@ How data can help us understand the success of a high school soccer player
 --------------------------------------------------------------------------
 **By Erica Soto and Luis Miguel Echegaray**
 
-We will be looking at two players from two very different schools (One public, one private) in New York and determine what exactly makes a successful program.  This project will aim to investigate, but not limited to the following issues:
+We will be looking at two soccer players from two very different school teams (One public, one private) in New York and determine what exactly makes a successful program.  This project will aim to investigate, but not limited to the following issues:
 
 -What are the foundations of a successful school team program?
 
