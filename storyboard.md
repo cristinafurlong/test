@@ -1,1 +1,1 @@
-[The Soccer Bridge](http://placehold.it/300&text=the+soccer+bridge)
+![The Soccer Bridge](http://placehold.it/300&text=the+soccer+bridge)
