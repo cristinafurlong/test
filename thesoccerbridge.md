@@ -1,10 +1,10 @@
 **PITCH**
 
-How data can help us understand the success of a high school soccer player
---------------------------------------------------------------------------
+How star athletes and winning teams are created.  A look at NYC high school soccer from the public and private sectors 
+----------------------------------------------------------------------------------------------------------------------
 **By Erica Soto and Luis Miguel Echegaray**
 
-We will be looking at two soccer players from two very different school teams (One public, one private) in New York and determine what exactly makes a successful program.  This project will aim to investigate, but not limited to the following issues:
+We will be looking at the star athletes from two drastically different NY high school soccer teams (one public, one private) in order to determine what contributes to creating a successful high school athlete, as well as a winning program. This project will aim to investigate, but not limited to the following issues:
 
 -What are the foundations of a successful school team program?
 
