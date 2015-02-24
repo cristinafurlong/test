@@ -34,7 +34,7 @@ MLK Jr. has produced 10 professional soccer players. Including New York Cosmos, 
 
 **PLAYER DEMOGRAPHICS**
 
-MLK Jr.’s soccer team is diverse in player skill set and ethnicity. The majority of students being African & African American and Hispanic.
+MLK Jr.’s soccer team is diverse in player skill set and ethnicity. The majority of students being African/African American and Hispanic.
 
 The Dalton School’s ethnic diversity is as follows. Majority are Caucasian, followed by African American, Hispanic, South Asian (Indian) and Asian.
 
