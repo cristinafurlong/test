@@ -1,4 +1,5 @@
 ![The Soccer Bridge](http://placehold.it/300&text=the+soccer+bridge)
+
 **Overview –**
 
 **The Dalton School**
