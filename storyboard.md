@@ -1,4 +1,4 @@
-![The Soccer Bridge](http://placehold.it/300&text=the+soccer+bridge)
+![Dalton and MLK Jr Map in NYC](http://placehold.it/300&text=map+of+dalton+and+mlk+in+manhattan)
 
 **OVERVIEW**
 
@@ -13,8 +13,6 @@ Martin Luther King Jr. High School is a public school on the upper west side nei
 The Dalton School is a prestigious, highly selective private school on the upper east side of Manhattan, New York.  The school has three buildings, they are all located on the Upper East Side:  The first school, the main middle school and high school, and the athletic department.  
 
 ![Imgur](http://i.imgur.com/giqUm3W.jpg)
-
-![Dalton and MLK Jr Map in NYC](http://placehold.it/300&text=map+of+dalton+and+mlk+in+manhattan)
 
 **SOCCER CHAMPIONSHIPS**
 
