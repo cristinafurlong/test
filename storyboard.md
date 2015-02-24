@@ -25,6 +25,12 @@ The Dalton School has some of the finest indoor athletic complexes in Manhattan.
 
 ![Imgur](http://i.imgur.com/Sg10sJa.png)
 
+**POST GRADUATION SUCCESS**
+
+MLK Jr. has produced 10 professional soccer players. Including New York Cosmos, [David Diosa.](http://www.nycosmos.com/theclub/roster/playerprofile/uuid/ccozavvq1gqo1231svc3zwvms/david-diosa) 
+
+[Probability of competing beyond high school](http://www.ncaa.org/about/resources/research/probability-competing-beyond-high-school)
+
 **PLAYER DEMOGRAPHICS**
 
 MLK Jr.’s soccer team is diverse in player skill set and ethnicity. The majority of students being African & African American and Hispanic.
