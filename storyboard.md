@@ -6,7 +6,7 @@
  
 Martin Luther King Jr. High School is a public school on the upper west side neighborhood of Manhattan, New York City, near Lincoln Center. The campus houses six themed schools: The Urban Assembly School for Media Studies, High School for Law, Advocacy and Community Justice, High School for Arts, Imagination and Inquiry, High School of Arts and Technology, Manhattan/Hunter Science High School and Special Music School.
 
-[Imgur](http://i.imgur.com/8MSBC5l.jpg)
+![Imgur](http://i.imgur.com/8MSBC5l.jpg)
 
 **The Dalton School**
 
