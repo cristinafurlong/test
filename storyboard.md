@@ -12,12 +12,17 @@ Martin Luther King Jr. High School is a public school on the upper west side nei
 
 The Dalton School is a prestigious, highly selective private school on the upper east side of Manhattan, New York.  The school has three buildings, they are all located on the Upper East Side:  The first school, the main middle school and high school, and the athletic department.  
 
+![Imgur](http://i.imgur.com/giqUm3W.jpg)
+
 **Soccer Championships –**
 
 MLK Jr. is a powerhouse team in the PSAL league and is one of the top teams in the nation. The team has produced 14 city titles in the past 17 years. In 2014 the team ended their three-year run as city champs in a 1-0 loss to the 12th seeded school, Aviation.
 
+![Imgur](http://i.imgur.com/foECfwx.png)
 
-MLK Jr. is a powerhouse team in the PSAL league and is one of the top teams in the nation. The team has produced 14 city titles in the past 17 years. In 2014 the team ended their three-year run as city champs in a 1-0 loss to the 12th seeded school, Aviation.
+The Dalton School has some of the finest indoor athletic complexes in Manhattan. The coaches and staff are strongly committed to the health and development of every individual student. In 2009 the team won its first, and only, NYSIAS championship.
+
+![Imgur](http://i.imgur.com/Sg10sJa.png)
 
 **Player Demographics –**
 MLK Jr.’s soccer team is diverse in player skill set and ethnicity. The majority of students being African & African American and Hispanic.
