@@ -67,5 +67,3 @@ Soccer Head Coach - Dalton: Luis M Echegaray
                                    MLK:    Martin Jacobson
 Championships won -  Dalton (1)   NYSAIS
                                     MLK (15)    PSAL
-
-![Imgur](http://i.imgur.com/41TzAul.png?1)
