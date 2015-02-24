@@ -28,7 +28,7 @@ The Dalton School has some of the finest indoor athletic complexes in Manhattan.
 
 **POST GRADUATION SUCCESS**
 
-MLK Jr. has produced 10 professional soccer players. Including New York Cosmos, [David Diosa.](http://www.nycosmos.com/theclub/roster/playerprofile/uuid/ccozavvq1gqo1231svc3zwvms/david-diosa) 
+MLK Jr. has produced 10 professional soccer players. Including New York Cosmos 21-year old attacker, [David Diosa.](http://www.nycosmos.com/theclub/roster/playerprofile/uuid/ccozavvq1gqo1231svc3zwvms/david-diosa) 
 
 [Probability of competing beyond high school](http://www.ncaa.org/sites/default/files/Probability-of-going-pro-methodology_Update2013.pdf)
 
