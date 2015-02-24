@@ -14,7 +14,7 @@ The Dalton School is a prestigious, highly selective private school on the upper
 
 ![Imgur](http://i.imgur.com/giqUm3W.jpg)
 
-![Dalton and MLK Jr Map in NYC](http://placehold.it/300&text=map+of+nyc+dalton+and+mlk)
+![Dalton and MLK Jr Map in NYC](http://placehold.it/300&text=map+of+dalton+and+mlk+in+manhattan
 
 **SOCCER CHAMPIONSHIPS**
 
