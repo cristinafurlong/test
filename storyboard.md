@@ -14,7 +14,7 @@ The Dalton School is a prestigious, highly selective private school on the upper
 
 ![Imgur](http://i.imgur.com/giqUm3W.jpg)
 
-![Dalton and MLK Jr Map in NYC](http://placehold.it/300&text=map+of+dalton+and+mlk+in+manhattan
+![Dalton and MLK Jr Map in NYC](http://placehold.it/300&text=map+of+dalton+and+mlk+in+manhattan)
 
 **SOCCER CHAMPIONSHIPS**
 
@@ -38,6 +38,7 @@ MLK Jr.’s soccer team is diverse in player skill set and ethnicity. The majori
 
 The Dalton School’s ethnic diversity is as follows. Majority are Caucasian, followed by African American, Hispanic, South Asian (Indian) and Asian.
 
+![Bar Graph](http://placehold.it/300&text=race+comparison+bar+graph)
 
 Players from each school commute from various neighborhoods, and some from outer boroughs. As of the 2015 school year MLK Jr. players commute from longer distances.
 
