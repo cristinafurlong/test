@@ -1,6 +1,7 @@
 ![The Soccer Bridge](http://placehold.it/300&text=the+soccer+bridge)
 
-**Overview –**
+**OVERVIEW**
+
 
 **Martin Luther King Jr. High School**
  
@@ -14,7 +15,7 @@ The Dalton School is a prestigious, highly selective private school on the upper
 
 ![Imgur](http://i.imgur.com/giqUm3W.jpg)
 
-**Soccer Championships –**
+**SOCCER CHAMPIONSHIPS**
 
 MLK Jr. is a powerhouse team in the PSAL league and is one of the top teams in the nation. The team has produced 14 city titles in the past 17 years. In 2014 the team ended their three-year run as city champs in a 1-0 loss to the 12th seeded school, Aviation.
 
@@ -24,23 +25,24 @@ The Dalton School has some of the finest indoor athletic complexes in Manhattan.
 
 ![Imgur](http://i.imgur.com/Sg10sJa.png)
 
-**Player Demographics –**
+**PLAYER DEMOGRAPHICS**
+
 MLK Jr.’s soccer team is diverse in player skill set and ethnicity. The majority of students being African & African American and Hispanic.
 
 The Dalton School’s ethnic diversity is as follows. Majority are Caucasian, followed by African American, Hispanic, South Asian (Indian) and Asian.
 
 
-
 Players from each school commute from various neighborhoods, and some from outer boroughs. As of the 2015 school year MLK Jr. players commute from longer distances.
 
-**MLK Student Commute**
+**MLK Soccer Players by Neighborhood**
 
 ![Imgur](http://i.imgur.com/0pAaAcp.png)
 
-**Dalton Student Commute**
+**Dalton Soccer Players by Neighborhood**
 
 ![Imgur](http://i.imgur.com/qmpiew6.png)
-**Team Resources –**
+
+**TEAM RESOURCES**
 
 **MLK Resources TBD**	
 
@@ -52,7 +54,7 @@ The school also hires a full time athletic training staff.  The players have acc
  
 The program has 4-5 coaches, all led by head coach: Luis M Echegaray.
 
-**References –**
+**REFERENCES**
 Athletic Director - Dalton:  Teddy Frischling
                             MLK - Martin Jacobson
 Soccer Head Coach - Dalton: Luis M Echegaray
