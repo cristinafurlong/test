@@ -33,8 +33,15 @@ The Dalton School’s ethnic diversity is as follows. Majority are Caucasian, fo
 
 Players from each school commute from various neighborhoods, and some from outer boroughs. As of the 2015 school year MLK Jr. players commute from longer distances.
 
+**MLK Student Commute**
 
+![Imgur](http://i.imgur.com/0pAaAcp.png)
+
+**Dalton Student Commute**
+
+![Imgur](http://i.imgur.com/qmpiew6.png)
 **Team Resources –**
+
 **MLK Resources TBD**	
 
 **The Dalton School**
