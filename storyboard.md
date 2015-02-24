@@ -2,7 +2,6 @@
 
 **OVERVIEW**
 
-
 **Martin Luther King Jr. High School**
  
 Martin Luther King Jr. High School is a public school on the upper west side neighborhood of Manhattan, New York City, near Lincoln Center. The campus houses six themed schools: The Urban Assembly School for Media Studies, High School for Law, Advocacy and Community Justice, High School for Arts, Imagination and Inquiry, High School of Arts and Technology, Manhattan/Hunter Science High School and Special Music School.
@@ -14,6 +13,8 @@ Martin Luther King Jr. High School is a public school on the upper west side nei
 The Dalton School is a prestigious, highly selective private school on the upper east side of Manhattan, New York.  The school has three buildings, they are all located on the Upper East Side:  The first school, the main middle school and high school, and the athletic department.  
 
 ![Imgur](http://i.imgur.com/giqUm3W.jpg)
+
+!(http://placehold.it/300&text=map+of+nyc+dalton+and+mlk)
 
 **SOCCER CHAMPIONSHIPS**
 
