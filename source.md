@@ -8,7 +8,7 @@
 
 [Dalton High School Stats](http://high-schools.com/directory/ny/cities/new-york/dalton-school/00941729/)
 
-Martin Jacobson (MLK) Head Soccer Coach and Athletic Director - 
+Martin Jacobson (MLK) Head Soccer Coach and Athletic Director 
 917-359-3735
 
 Teddy Frischling (Dalton) Athletic Director 212-423-5447
